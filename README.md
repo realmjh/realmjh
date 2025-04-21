@@ -1,6 +1,6 @@
 # Hi there! My name is M. James Hawkins. 
 
-## I'm a Programmer, Cybersecurity Nerd, and Avid Nature Lover! 
+## I'm a 17 year old Programmer, Cybersecurity Nerd, and Avid Nature Lover! 
 
 - 🔭 I’m currently working on [OpenLogicBox](https://github.com/mycoolproject)
 - 🌱 I’m learning Java, C++, and Cybersecurity. 
