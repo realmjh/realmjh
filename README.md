@@ -5,7 +5,7 @@
 ## What I'm Working With
 
 **Languages:** C#, Python, JavaScript, Java, C++  
-**Specialty:** Digital forensics, tracking people down, analyzing digital footprints  
+**Specialty:** Digital forensics/Intelligence, Cybersecurity, Programming
 
 I love tracking and tracing things. I consider myself to be a master of social engineering. If someone leaves something behind online, I'll find it. You'd be really surprised to find out how much of your information is out there. 
 
@@ -37,6 +37,7 @@ I once "accidentally" breached my elementary school's grading system. In my defe
 
 ## Hit Me Up
 Feel free to contact me. Don't bother using your little OSINT tools on my email, you won't find anything. 
+Someone bothering you? Don't know who they are? Repeatedly harrasing you over the phone? Send me an email. I'll track them down and report them for you. 
 
 **Email:** [r3almjh@gmail.com](mailto:r3almjh@gmail.com)  
 
